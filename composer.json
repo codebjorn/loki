@@ -1,0 +1,34 @@
+{
+  "name": "wpackagist-theme/loki",
+  "description": "WP Theme Loki",
+  "type": "wp-theme",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Dorin Lazar",
+      "email": "quotesun@gmail.com"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../../packages/mjolnir",
+      "options": {
+        "symLink": true
+      }
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Loki\\": "app/"
+    },
+    "files": ["app/Helpers.php"]
+  },
+  "config": {
+    "optimize-autoloader": true
+  },
+  "require": {
+    "codebjorn/mjolnir": "dev-master"
+  }
+}
