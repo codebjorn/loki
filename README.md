@@ -5,7 +5,7 @@
 # Loki, WordPress Theme Boilerplate
 
 [![GitHub release](https://img.shields.io/github/v/release/codebjorn/loki?include_prereleases)](https://github.com/codebjorn/loki/releases)
-[![Generic badge](https://img.shields.io/badge/Stability-Alpha-<COLOR>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Stability-Alpha-orange.svg)](https://shields.io/)
 
 Loki is WordPress Theme Boilerplate using as a base [Mjolnir](https://github.com/codebjorn/mjolnir) Framework
 
