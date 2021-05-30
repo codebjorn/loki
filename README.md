@@ -1,5 +1,5 @@
 <p style="text-align: center;">
-<img width="400" src="https://i.imgur.com/rAtLy70.png" />
+<img width="150" src="https://i.imgur.com/juNpEJO.png" />
 </p>
 
 # Loki, WordPress Theme Boilerplate
