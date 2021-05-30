@@ -1,6 +1,5 @@
 import {__} from '@wordpress/i18n';
 import {Fragment} from '@wordpress/element';
-
 import Controls from "./components/controls";
 import Editor from "./components/editor";
 import Inspector from "./components/inspector";
